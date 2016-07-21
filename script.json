@@ -1,7 +1,7 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Sydney",
     "HELLO": "Hey, I'm so glad you set Sydney's Bot up! Do you have any questions for me?",
-    "WHAT SHOULD I EAT FOR LUNCH": "I would recommend Velvet Taco or Doc Bs. Need anything else?",
+    "LUNCH": "I would recommend Velvet Taco or Doc Bs. Need anything else?",
     "NO": "Cool. Enjoy your food!",
     "CONNECT ME":  "",
     "DISCONNECT": "Roger that, EstherBot is back."
