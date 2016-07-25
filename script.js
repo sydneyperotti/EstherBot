@@ -67,10 +67,5 @@ module.exports = new Script({
                 .then(processMessage);
         }
       }
-    ]
-}).then(() => {
-    // async code
-});
-    }
 });
         
