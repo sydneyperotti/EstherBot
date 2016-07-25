@@ -66,7 +66,7 @@ module.exports = new Script({
                 .then(getSilent)
                 .then(processMessage);
         }
-    smooch.conversations.sendMessage('afad03zfv5wxcnp8jjtfda347', {
+    smooch.conversations.sendMessage('Ihv34tB9PRDymbjspP6QULtm', {
         text: 'Fabric',
         role: 'appMaker',
         actions: [
