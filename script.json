@@ -2,12 +2,13 @@
     "BOT": "Hi there!\nI’m the Clorox MyStain ChatBot",
     "HELLO": "Welcome! Do you have questions for me regarding any stains on fabrics or surfaces?",
     "YES": "What can I help you with?",
-    "HOW CAN I REMOVE AN EGG STAIN?": "Is this stain on a surface or fabric?",
-    "SURFACE": "Okay, great! First, Wipe away excess egg. Grab Clorox® Clean-Up® Cleaner + Bleach. Then, to clean and disinfect: Spray 4–6 inches from surface until wet thoroughly. Let stand 30 seconds. Finally, Rinse or wipe clean.",
-    "FABRIC": "Okay, great! First, Scrape or brush off excess egg particles, and rinse out the stain with cold water. Then, Pre-soak garment in cold water for at least 30 minutes with a laundry detergent that contains enzymes. After that, Wash as usual in cool water with detergent and ½ cup Clorox® Regular-Bleach1 to whites. Finally, Repeat as necessary and check for success before machine drying. Be thankful it wasn’t bacon. Do you have any other questions?",
     "THANK YOU": "No problem!  Do you need anything else?",
     "NO": "Have a great day!",
-    "HOW CAN I REMOVE A BBQ SAUCE STAIN?": "First, Pre-treat with Clorox® Bleach Pen Gel for whites or Clorox 2® Pre-Treat Stain Remover Pen for colors. Then, Wash in hot water with detergent and add ½ cup of Clorox® Regular-Bleach1* to whites, Clorox Smart Seek™ Bleach to whites with some color, or Clorox 2® Stain Remover & Color Booster to colors. Next, Make sure the stain is completely gone before drying. If not, repeat washing instructions. Finally, When the stain is completely gone, place whites or colors in the machine dryer. Kiss the cook. Do you have any other questions?",
+    "HOW CAN I REMOVE AN EGG STAIN?": "Is this stain on a surface or fabric? %[Surface](postback:egg_surface) %[Fabric](postback:egg_fabric)",
+    "HOW DO I REMOVE A BBQ SAUCE STAIN?": "Is the stain on a surface or fabric? %[Fabric](postback:bbq_fabric) %[Surface](postback:bbq_surface)",
+    "HOW DO I REMOVE A BABY FOOD STAIN?": "Is the stain on a surface or fabric? %[Fabric](postback:baby_fabric) %[Surface](postback:baby_surface)",
+    "HOW DO I REMOVE A BEER STAIN?": "Is the stain on a surface or fabric? %[Fabric](postback:beer_fabric) %[Surface](postback:beer_surface)",
+    "HOW DO I REMOVE A BERRIES STAIN?": "Is the stain on a surface or fabric? %[Fabric](postback:berries_fabric) %[Surface](postback:berries_surface)",
     "CONNECT ME":  "",
-    "DISCONNECT": "Roger that, Clorox MyStain ChatBot is back."
+    "DISCONNECT": "Roger that, MyStain ChatBot is back."
 }
