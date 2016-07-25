@@ -78,7 +78,6 @@ module.exports = new Script({
         ]
     }).then(() => {
         // async code
-});
     }
 });
         
