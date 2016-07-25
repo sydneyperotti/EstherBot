@@ -1,6 +1,8 @@
 {
     "BOT": "Hi there!\nI’m the Clorox MyStain ChatBot",
-    "HELLO": "Welcome! Do you have questions for me regarding any stains on fabrics or surfaces?",
+    "HELLO": "Welcome! Do you have questions for me regarding any stains on fabrics or surfaces? %[Egg Stain on Surface](postback:EGG STAIN ON SURFACE) %[Egg Stain on Fabric](postback:EGG STAIN ON FABRIC)",
+    "EGG STAIN ON SURFACE": "directions for surface",
+    "EGG STAIN ON FABRIC": "directions for fabric",
     "YES": "What can I help you with?",
     "THANK YOU": "No problem!  Do you need anything else?",
     "NO": "Have a great day!",
