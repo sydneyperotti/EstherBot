@@ -1,12 +1,12 @@
 {
     "BOT": "Hi there!\nI’m the Clorox MyStain ChatBot",
     "HELLO": "Welcome! Do you have questions for me regarding any stains on fabrics or surfaces?",
-    "EGG STAIN ON SURFACE": "directions for surface",
-    "EGG STAIN ON FABRIC": "directions for fabric",
+    "SURFACE": "directions for surface",
+    "FABRIC": "directions for fabric",
     "YES": "What can I help you with?",
     "THANK YOU": "No problem!  Do you need anything else?",
     "NO": "Have a great day!",
-    "HOW CAN I REMOVE AN EGG STAIN?": "Is this stain on a surface or fabric? %[Egg Stain on Surface](postback:egg stain on surface) %[Egg Stain on Fabric](postback:egg stain on fabric)",
+    "HOW CAN I REMOVE AN EGG STAIN?": "Is this stain on a surface or fabric? %[Surface](postback:surface) %[Fabric](postback:fabric)",
     "CONNECT ME":  "",
     "DISCONNECT": "Roger that, MyStain ChatBot is back."
 }
