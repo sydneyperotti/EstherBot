@@ -77,7 +77,8 @@ smooch.conversations.sendMessage('5790dca8cab9a256005c0148', {
       }
     ]
 }).then(() => {
-    // async code        
+    // async code
+});
     }
 });
         
