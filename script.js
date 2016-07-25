@@ -68,30 +68,4 @@ module.exports = new Script({
         }
     }
 });
-smooch.conversations.sendMessage('c7f6e6d6c3a637261bd9656f', {
-    text: 'Fabric',
-    role: 'appMaker',
-    actions: [
-      {
-        type: 'postback',
-        text: 'Okay, great! First, Scrape or brush off excess egg particles, and rinse out the stain with cold water. Then, Pre-soak garment in cold water for at least 30 minutes with a laundry detergent that contains enzymes. After that, Wash as usual in cool water with detergent and ½ cup Clorox® Regular-Bleach1 to whites. Finally, Repeat as necessary and check for success before machine drying. Be thankful it wasn’t bacon.',
-        payload: 'egg_fabric'
-      }
-    ]
-}).then(() => {
-    // async code
-});
-
-smooch.conversations.sendMessage('c7f6e6d6c3a637261bd9656f', {
-    text: 'Surface',
-    role: 'appMaker',
-    actions: [
-      {
-        type: 'postback',
-        text: 'Okay, great! First, Wipe away excess egg. Grab Clorox® Clean-Up® Cleaner + Bleach. Then, to clean and disinfect: Spray 4–6 inches from surface until wet thoroughly. Let stand 30 seconds. Finally, Rinse or wipe clean.',
-        payload: 'egg_surface'
-      }
-    ]
-}).then(() => {
-    // async code
-});
+        
