@@ -1,7 +1,7 @@
 {
     "HELLO": "Welcome! Feel free to ask me 'how to' questions about the stains on your fabrics and surfaces. It's simple, just phrase your question like this: 'How can I remove an egg stain?' and then select either 'Surface' or 'Fabric.'",
-    "HOW CAN I REMOVE AN EGG STAIN?": %[Remove an egg stain on a surface](postback:eggsurface) %[Remove an egg stain on a fabric](postback:eggfabric)",
-    "HOW CAN I REMOVE AN EGG STAIN": %[Remove an egg stain on a surface](postback:eggsurface) %[Remove an egg stain on a fabric](postback:eggfabric)",
+    "HOW CAN I REMOVE AN EGG STAIN?": "%[Remove an egg stain on a surface](postback:eggsurface) %[Remove an egg stain on a fabric](postback:eggfabric)",
+    "HOW CAN I REMOVE AN EGG STAIN": "%[Remove an egg stain on a surface](postback:eggsurface) %[Remove an egg stain on a fabric](postback:eggfabric)",
     "CONNECT ME":  "",
     "DISCONNECT": "Roger that, MyStain ChatBot is back."
 }
