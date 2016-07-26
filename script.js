@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Welcome')
+            return bot.say('Welcome to the MyStain ChatBot! Feel free to ask me questions about the stains on your fabrics and surfaces. It is simple, just phrase your question like this --How can I remove an egg stain?-- and then follow the prompts!')
                 .then(() => 'speak');
         }
     },
