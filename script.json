@@ -1,16 +1,7 @@
 {
-    "BOT": "Hi there!\nI’m the Clorox MyStain ChatBot",
     "HELLO": "Welcome! Feel free to ask me 'how to' questions about the stains on your fabrics and surfaces. It's simple, just phrase your question like this: 'How can I remove an egg stain?' and then select either 'Surface' or 'Fabric.'",
-    "HOW CAN I REMOVE AN EGG STAIN?": "Is this stain on a surface or fabric? %[Remove an egg stain on a surface](postback:eggsurface) %[Remove an egg stain on a fabric](postback:eggfabric)",
-    "HOW CAN I REMOVE AN EGG STAIN": "Is this stain on a surface or fabric? %[Remove an egg stain on a surface](postback:eggsurface) %[Remove an egg stain on a fabric](postback:eggfabric)",
-    "REMOVE AN EGG STAIN ON A SURFACE": "directions for surface",
-    "REMOVE AN EGG STAIN ON A FABRIC": "directions for fabric",
-    "HOW CAN I REMOVE A BBQ SAUCE STAIN?": "Is this stain on a surface or fabric? %[Remove a BBQ sauce stain on a surface](postback:bbqsurface) %[Remove a BBQ sauce stain on a fabric](postback:bbqfabric)",
-    "HOW CAN I REMOVE A BBQ SAUCE STAIN": "Is this stain on a surface or fabric? %[Remove a BBQ sauce stain on a surface](postback:bbqsurface) %[Remove a BBQ sauce stain on a fabric](postback:bbqfabric)",
-    "HOW CAN I REMOVE A BARBECUE SAUCE STAIN?": "Is this stain on a surface or fabric? %[Remove a BBQ sauce stain on a surface](postback:bbqsurface) %[Remove a BBQ sauce stain on a fabric](postback:bbqfabric)",
-    "HOW CAN I REMOVE A BARBECUE SAUCE STAIN": "Is this stain on a surface or fabric? %[Remove a BBQ sauce stain on a surface](postback:bbqsurface) %[Remove a BBQ sauce stain on a fabric](postback:bbqfabric)",
-    "REMOVE A BBQ SAUCE STAIN ON A SURFACE": "directions for surface",
-    "REMOVE A BBQ STAIN ON A FABRIC": "directions for fabric",
+    "HOW CAN I REMOVE AN EGG STAIN?": %[Remove an egg stain on a surface](postback:eggsurface) %[Remove an egg stain on a fabric](postback:eggfabric)",
+    "HOW CAN I REMOVE AN EGG STAIN": %[Remove an egg stain on a surface](postback:eggsurface) %[Remove an egg stain on a fabric](postback:eggfabric)",
     "CONNECT ME":  "",
     "DISCONNECT": "Roger that, MyStain ChatBot is back."
 }
