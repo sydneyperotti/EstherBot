@@ -3,8 +3,6 @@
     "YES": "What can I help you with?",
     "THANK YOU": "No problem!  Do you need anything else?",
     "NO": "Have a great day!",
-    "CONNECT ME":  "",
-    "DISCONNECT": "Roger that, MyStain ChatBot is back.",
     "HELLO": "Welcome! Feel free to ask me 'how to' questions about the stains on your fabrics and surfaces. It's simple, just phrase your question like this: 'How can I remove an egg stain?' and then select either 'Surface' or 'Fabric.'",
     "HOW CAN I REMOVE A BBQ SAUCE STAIN?": "%[Remove a BBQ sauce stain on a surface](postback:bbqsurface) %[Remove a BBQ sauce stain on a fabric](postback:bbqfabric)",
     "HOW CAN I REMOVE A BBQ SAUCE STAIN": "Is this stain on a surface or fabric? %[Remove a BBQ sauce stain on a surface](postback:bbqsurface) %[Remove a BBQ sauce stain on a fabric](postback:bbqfabric)",
@@ -12,4 +10,6 @@
     "HOW CAN I REMOVE A BARBECUE SAUCE STAIN": "%[Remove a BBQ sauce stain on a surface](postback:bbqsurface) %[Remove a BBQ sauce stain on a fabric](postback:bbqfabric)",
     "REMOVE A BBQ SAUCE STAIN ON A SURFACE": "First, wet Clorox® ScrubSingles™ Kitchen Pads with water and squeeze to activate cleaner. Then, Scrub surfaces to clean. Re-wet to release more cleaner. Don’t wear yourself out — you’ll probably be scrubbing the grill later. Finally, rinse or wipe up foam from surface. Hopefully the meal was as good as the cleanup! Are you looking for details on the product used in this tutorial? Click on the button below to learn more: %[Clorox® ScrubSingles™ Kitchen Pads](https://www.clorox.com/products/clorox-scrub-singles-kitchen-pads/)",
     "REMOVE A BBQ SAUCE STAIN ON A FABRIC": "First, Pre-treat with Clorox® Bleach Pen Gel for whites or Clorox 2® Pre-Treat Stain Remover Pen for colors. Then, wash in hot water with detergent and add ½ cup of Clorox® Regular-Bleach1* to whites, Clorox Smart Seek™ Bleach to whites with some color, or Clorox 2® Stain Remover & Color Booster to colors. Then, make sure the stain is completely gone before drying. If not, repeat washing instructions. When the stain is completely gone, place whites or colors in the machine dryer. Finally, kiss the cook! Are you looking for details on the products used in this tutorial? Click on the buttons below to learn more: %[Clorox 2® Stain Remover & Color Booster](https://www.clorox.com/products/clorox-2-stain-remover-and-color-booster-liquid/) %[Clorox® Regular-Bleach1](https://www.clorox.com/products/clorox-concentrated-regular-bleach/)",
+    "CONNECT ME":  "",
+    "DISCONNECT": "Roger that, MyStain ChatBot is back."
 }
