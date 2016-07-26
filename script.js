@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('')
+            return bot.say('Welcome to the Clorox MyStain ChatBot! Feel free to ask me questions about the stains on your fabrics and surfaces. Just say HELLO to get started!')
                 .then(() => 'speak');
         }
     },
